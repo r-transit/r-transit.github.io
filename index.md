@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## r-transit.org
 
-You can use the [editor on GitHub](https://github.com/r-transit/r-transit.org/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+As a public resource, the goals of transit align well with open source-tools for understanding it. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our goal is to provide support to--and highlight work by--those seeking to build public-domain tools and data in R that contribute to policy discussions around transit.  
 
-### Markdown
+### Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [how-to](https://howto.r-transit.org)  
+- [trread](https://github.com/r-transit/trread)  
+- [bustt](https://github.com/r-transit/bustt)  
+- [gtsf](https://github.com/r-transit/gtsf)  
+- [r511](https://github.com/r-transit/r511)  
+- [transitfeedr](https://github.com/r-transit/transitfeedr)  
 
-```markdown
-Syntax highlighted code block
+### Contributing
 
-# Header 1
-## Header 2
-### Header 3
+Thanks for visiting. Our mission is immodest relative to our resources. Please consider contributing by [opening an issue](https://github.com/r-transit/r-transit.org/issues) with questions or proposals. 
 
-- Bulleted
-- List
+### Acknowledgements
 
-1. Numbered
-2. List
+This organization and the tools in it take their inspiration (and a good deal of code!) from the [ROpenSci gtfsr](https://github.com/ropensci/gtfsr) package. We are grateful to ROpenSci and [the contributors](https://github.com/ropensci/gtfsr/graphs/contributors) to that package. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/r-transit/r-transit.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As such, the commit history of that package has been included in all of the packages above as an acknowledgement of how, specifically, these tools are derived from them. Our intention here was to build smaller, simpler components that can be maintained by multiple people more easily. If you’re interested in contributing or taking ownership of one of these packages, please open an issue in one of them. 
