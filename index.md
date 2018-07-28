@@ -2,7 +2,7 @@
 
 As a public resource, the goals of transit align well with open source-tools for understanding it. 
 
-Our goal is to provide support to--and highlight work by--those seeking to build public-domain tools and data in R that contribute to policy discussions around transit.  
+Our goal is to provide support to--and highlight work by--those building public-domain tools and data in R that contribute to policy discussions around transit.  
 
 ### Tools
 
