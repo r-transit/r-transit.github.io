@@ -23,4 +23,4 @@ This organization and the tools in it take their inspiration (and a good deal of
 
 As such, the commit history of that package has been included in all of the packages above as an acknowledgement of how, specifically, these tools are derived from them. Our intention here was to build smaller, simpler components that can be maintained by multiple people more easily. If you’re interested in contributing or taking ownership of one of these packages, please open an issue in one of them. 
 
-The image at right is "Broadway Boogie Woogie" by Piet Mondrian. As you can tell, we need help with a logo. :)
+The image at left is "Broadway Boogie Woogie" by Piet Mondrian. As you can tell, we need help with a logo. :)
