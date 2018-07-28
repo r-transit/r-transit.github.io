@@ -6,7 +6,7 @@ Our goal is to provide support to--and highlight work by--those seeking to build
 
 ### Tools
 
-- [how-to](https://howto.r-transit.org) - analyze transit data in R
+- [how-to](http://howto.r-transit.org) - analyze transit data in R
 - [awesome-r-transit](https://github.com/r-transit/awesome-r-transit) - a list of awesome R transit tools
 - [trread](https://github.com/r-transit/trread) - for reading GTFS data in R
 - [bustt](https://github.com/r-transit/bustt) - for calculating headways and transit frequency
