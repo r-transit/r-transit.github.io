@@ -29,4 +29,4 @@ This organization and the tools in it take their inspiration from the [ROpenSci 
 
 The commit history of code contributions in gtfsr is included in all of the packages above. Our intention was to build smaller, simpler components that can be maintained, potentially more easily, by multiple people. If you’re interested in contributing or taking ownership of one of these packages, please open an issue in one of them. 
 
-Top / featured image cc licensed BY-NC-SA 2.0 flickr photo by cavorite: https://flic.kr/p/8HGmJr
+Top / featured image cc licensed BY-NC-SA 2.0 flickr [photo by cavorite](https://flic.kr/p/8HGmJr)
