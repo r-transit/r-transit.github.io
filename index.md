@@ -25,8 +25,8 @@ You can contribute by:
 
 ### Acknowledgements
 
-This organization and the tools in it take their inspiration (and a good deal of code!) from the [ROpenSci gtfsr](https://github.com/ropensci/gtfsr) package. We are grateful to ROpenSci and [the contributors](https://github.com/ropensci/gtfsr/graphs/contributors) to that package. 
+This organization and the tools in it take their inspiration from the [ROpenSci gtfsr](https://github.com/ropensci/gtfsr) package. We are grateful to ROpenSci and [the contributors](https://github.com/ropensci/gtfsr/graphs/contributors) to that package. 
 
-The commit history of that package has been included in all of the packages above. Our intention was to build smaller, simpler components that can be maintained, potentially more easily, by multiple people. If you’re interested in contributing or taking ownership of one of these packages, please open an issue in one of them. 
+The commit history of code contributions in gtfsr is included in all of the packages above. Our intention was to build smaller, simpler components that can be maintained, potentially more easily, by multiple people. If you’re interested in contributing or taking ownership of one of these packages, please open an issue in one of them. 
 
 Top / featured image cc licensed BY-NC-SA 2.0 flickr photo by cavorite: https://flic.kr/p/8HGmJr
