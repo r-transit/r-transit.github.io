@@ -9,8 +9,9 @@ Our goal is to provide support to--and highlight work by--those building public-
   * [trread](https://github.com/r-transit/trread) - for reading GTFS data in R
   * [bustt](https://github.com/r-transit/bustt) - for calculating headways and transit frequency
   * [gtsf](https://github.com/r-transit/gtsf) - for working with GTFS data as map data
+  * [transitfeedr](https://github.com/r-transit/transitfeedr) - to find current transit data around the world
 - [r511](https://github.com/r-transit/r511) - to find current transit data in the bay area
-- [transitfeedr](https://github.com/r-transit/transitfeedr) - to find current transit data around the world
+
 
 ### Guides
 - [how-to](http://howto.r-transit.org) - analyze transit data in R
