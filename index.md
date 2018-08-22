@@ -5,7 +5,7 @@ The goals of public transit align well with the goals of open source-tools for u
 Our goal is to provide support to--and highlight work by--those building public-domain tools and data in R that contribute to policy discussions around transit.  
 
 ### Tools
-- [tidytransit](https://github.com/r-transit/tidytransit) - a catchall package with the following components in it:
+- [tidytransit](https://github.com/r-transit/tidytransit) - a catchall package with code from all of the following packages in it:
   * [trread](https://github.com/r-transit/trread) - for reading GTFS data in R
   * [bustt](https://github.com/r-transit/bustt) - for calculating headways and transit frequency
   * [gtsf](https://github.com/r-transit/gtsf) - for working with GTFS data as map data
